@@ -18,3 +18,4 @@ producer is producing 2
 consumer is consuming 2
 1)produce 2)consume 3)exit
 3
+exit
