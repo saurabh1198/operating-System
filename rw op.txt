@@ -1,0 +1,5 @@
+run:
+t1is reading
+t3is reading
+t2is writing
+BUILD SUCCESSFUL (total time: 0 seconds)
