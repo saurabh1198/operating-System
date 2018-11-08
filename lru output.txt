@@ -1,0 +1,15 @@
+ Enter frame size:3
+Enter no of pages:10
+Enter pages
+2 3 5 4 2 5 7 3 8 7
+2    -1    -1
+2    3    -1
+2    3     5
+4    3     5
+4    2     5 
+4    2     5
+7    2     5
+7    3     5
+7    3     8
+7    3     8
+PAGE FAULT: 8 
